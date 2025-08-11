@@ -8,8 +8,8 @@ quality of life.
 
 Current manual diagnosis methods are time-consuming, prone to subjective interpretation, and require expert knowledge.
 
-This project focuses on developing a multi-label classifier using Pytorch and pre-trained EfficientNetV2 model to identify and classify degenerative spine conditions from MRI scans.
+This project focuses on developing a multi-label classifier using Pytorch and pre-trained EfficientNetV2 model to classify the severity of degenerative spine conditions from MRI scans.
 
-Conditions such as foraminal narrowing, subarticular stenosis, and canal stenosis will be identified, withseverity labeled as normal/mild, moderate, or severe across the five lumbar spine levels (L1-L5).
+Conditions such as foraminal narrowing, subarticular stenosis, and canal stenosis will be labeled as normal/mild, moderate, or severe across the five lumbar spine levels (L1-L5).
 
 The goal is to automate the detection of these conditions, improve diagnostic accuracy, and assist healthcare professionals in making quicker treatment decisions based on MRI scans.
